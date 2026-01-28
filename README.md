@@ -1,7 +1,7 @@
 # Hi  I'm Prathamesh Palekar
 
- Engineering Student | 💻 Computer Science  
- AI / ML Enthusiast | 🧠 GATE (CS) Aspirant  
+ Engineering Student |  Computer Science  
+ AI / ML Enthusiast |  GATE (CS) Aspirant  
  Aspiring Software Engineer  
 
 
